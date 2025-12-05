@@ -33,6 +33,3 @@ The model is trained using **TF-IDF Vectorization** combined with a **Machine Le
 
 *https://styfiespamdetection.streamlit.app/*
 
----
-
-If you want, I can also generate a **project folder structure** or a **simplified version** of the README.
